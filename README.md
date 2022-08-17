@@ -3,9 +3,13 @@
 
 ## OUTLINE
 Introduction
+
 Methodology
+
 Results
+
 Conclusion
+
 Appendix
 
 ## Executive Summary
